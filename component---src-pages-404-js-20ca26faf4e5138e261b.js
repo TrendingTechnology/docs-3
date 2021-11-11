@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_rocketdocs=self.webpackChunkgatsby_starter_rocketdocs||[]).push([[883],{59616:function(t,e,r){r.r(e),r.d(e,{default:function(){return u}});r(67294);var n=r(14940),s=r(23431);function u(){return(0,s.tZ)(n.Z,{title:"Page not found!"})}}}]);
+//# sourceMappingURL=component---src-pages-404-js-20ca26faf4e5138e261b.js.map
