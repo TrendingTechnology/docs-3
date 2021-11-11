@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: "/",
+  pathPrefix: "/docs",
   siteMetadata: {
     siteTitle: `Bothell.js`,
     defaultTitle: `Bothell.js`,
